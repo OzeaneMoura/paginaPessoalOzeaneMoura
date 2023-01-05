@@ -1,0 +1,37 @@
+*{
+    background-color: black;
+    color: #4ad3bc;
+}
+
+.first{
+    
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.perfil {
+    width: 200x;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.icone {
+    width: 35px;
+    height: 35px;
+}
+
+.second{
+    
+    display: flex;
+    
+    flex-direction: column;
+    
+    
+}
+
+
+
+
+
+
